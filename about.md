@@ -60,7 +60,7 @@ In recommending changes we will be following a core set of design goals:
 
 For this analysis we will be compartmentalising the many core systems, rulesets and mechanics in DND where it makes sense, then breaking them down into the simplest form that can still be considered true to the game. 
 
-In the process we will be dissecting what the mechanic does for the game, its history and whether its important to keep some or any of its features. 
+In the process we will be dissecting what the mechanic does for the game, its history and whether it's important to keep some or any of its features. 
 
 Finally we will propose one or more new ruleset to replace the old, with variants depending on how far users wish to simplify their game
 
